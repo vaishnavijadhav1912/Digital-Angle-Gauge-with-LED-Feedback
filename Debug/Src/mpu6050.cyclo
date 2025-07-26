@@ -1,0 +1,4 @@
+../Src/mpu6050.c:40:6:calculateAngles	1
+../Src/mpu6050.c:58:6:updateMovingAverage	1
+../Src/mpu6050.c:84:6:floatToStr	5
+../Src/mpu6050.c:123:9:combineBytes	1

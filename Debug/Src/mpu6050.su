@@ -1,0 +1,4 @@
+../Src/mpu6050.c:40:6:calculateAngles	40	static
+../Src/mpu6050.c:58:6:updateMovingAverage	24	static
+../Src/mpu6050.c:84:6:floatToStr	40	static
+../Src/mpu6050.c:123:9:combineBytes	16	static

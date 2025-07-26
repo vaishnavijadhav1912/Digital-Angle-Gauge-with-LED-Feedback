@@ -1,0 +1,4 @@
+../Src/timer.c:18:6:SysTick_Handler	8	static
+../Src/timer.c:31:6:SysTick_Init	24	static
+../Src/timer.c:51:6:Delay_ms	24	static
+../Src/timer.c:64:10:Timer_GetTicks	8	static

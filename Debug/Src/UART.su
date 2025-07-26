@@ -1,0 +1,3 @@
+../Src/UART.c:24:6:USART2_Init	8	static
+../Src/UART.c:47:6:putstr	16	static
+../Src/UART.c:66:6:puthex	56	static
